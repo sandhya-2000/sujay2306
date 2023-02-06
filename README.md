@@ -1,6 +1,6 @@
-## Welcome to my Homepage 👋 
+# Welcome to my Homepage 👋 
 
-### feel free to email me:  📫 sujayks007@gmail.com
+# feel free to email me:  📫 sujayks007@gmail.com
 
 🌱 Learning all about **Open Source**    
 
