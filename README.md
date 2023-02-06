@@ -19,6 +19,7 @@
 
 
 ![snake gif](https://github.com/sujay2306/sujay2306/blob/output/github-contribution-grid-snake.gif)
+
 <a href="https://github.com/sujay2306">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=sujay2306&show_icons=true&theme=buefy" />
 </a>
