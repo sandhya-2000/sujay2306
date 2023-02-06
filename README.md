@@ -1,8 +1,8 @@
-# Welcome to my Homepage 👋 
+<h3> Welcome to my profile 👋 </h3> 
 
-# feel free to email me:  📫 sujayks007@gmail.com
 
-🌱 Learning all about **Open Source**    
+
+<h3>🌱 Learning all about Open Source</h3>
 
 <p align="left">
   
