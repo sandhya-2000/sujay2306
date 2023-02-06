@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujay</h1>
 <h3 align="center">A passionate Engineer,enthusiastic about technology and always excited to learn and collaborate with amazing people in the community.</h3>
 
-- 💬 Ask me about **Kubernetes,Docker,Cloud,Java,Python,Springboot,NodeJS,Go**
-
 - 📫 How to reach me **sujayks007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
