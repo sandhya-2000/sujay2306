@@ -1,6 +1,6 @@
 ## Welcome to my Homepage 👋 
 
-### If you are interested in me, please feel free to email me:  📫 aiopsclub@163.com
+### feel free to email me:  📫 sujayks007@gmail.com
 
 🌱 Learning all about **Open Source**    
 
@@ -18,13 +18,12 @@
 
 
 
-![snake gif](https://github.com/sujay2306/sujay2306/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/sujay2306/sujay2306/blob/output/github-contribution-grid-snake.gif) -->
 
 <a href="https://github.com/sujay2306">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=sujay2306&show_icons=true&theme=buefy" />
 </a>
-<a href="https://github.com/sujay2306">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay2306&layout=compact&show_icons=true&theme=buefy" />
+
 </a>
 
 <!--
