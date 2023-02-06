@@ -10,5 +10,5 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujay2306&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=sujay2306&show_icons=true&theme=radical" />
+<img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay2306&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
