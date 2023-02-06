@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sujay</h1>
-<h4 align="center">A passionate Engineer,enthusiastic about technology and always excited to learn and collaborate with amazing people in the community.</h4>
-
 - 📫 How to reach me **sujayks007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
