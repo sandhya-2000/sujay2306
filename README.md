@@ -2,8 +2,6 @@
 
 
 
-<h3>🌱 Learning all about Open Source</h3>
-
 <p align="left">
   
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="python" style="max-width:100%;">
